@@ -1,2 +1,2 @@
 # dataAnalysis
-Reunir noteboks sobre análises de dados
+A ideia deste repositório é reunir análises de dados que eu esteja trabalhando.
